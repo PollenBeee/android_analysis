@@ -250,7 +250,7 @@ For queries, enhancements, or contributions, please contact:
 **Pradeep Kumar D S**  
 Email: _[pradeepkumarst@example.com]_  
 Webpage: _[https://dspradeepkumar.github.io/]_
-[LinkedIn:](https://www.linkedin.com/in/dspradeep/)
+LinkedIn:_[https://www.linkedin.com/in/dspradeep/]_
 ---
 
 > ✅ _Feel free to fork, extend, or integrate this into your own Android malware analysis pipelines._
