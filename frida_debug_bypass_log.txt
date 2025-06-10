@@ -1,0 +1,22 @@
+     ____
+    / _  |   Frida 17.1.0 - A world-class dynamic instrumentation toolkit
+   | (_| |
+    > _  |   Commands:
+   /_/ |_|       help      -> Displays the help system
+   . . . .       object?   -> Display information about 'object'
+   . . . .       exit/quit -> Exit
+   . . . .
+   . . . .   More info at https://frida.re/docs/home/
+   . . . .
+   . . . .   Connected to Android Emulator 5554 (id=emulator-5554)
+Spawning `net.programmierecke.radiodroid2`...
+Spawned `net.programmierecke.radiodroid2`. Resuming main thread!
+[Android Emulator 5554::net.programmierecke.radiodroid2 ]-> [*] OkHttp Request URL: http://101smoothjazz.com/favicon.ico
+[*] OkHttp Request URL: https://stream.radio-unicc.de/images/Logo-Radio_UNiCC.png
+[*] OkHttp Request URL: https://www.reyfm.de/icon.png
+[*] OkHttp Request URL: https://dancewave.online/dw_logo.png
+[*] OkHttp Request URL: https://www.wix.com/favicon.ico
+[*] OkHttp Request URL: http://www.echoesofbluemars.org/images/favicon.ico
+[*] OkHttp Request URL: https://mangoradio.de/wp-content/uploads/cropped-Logo-192x192.webp
+[*] OkHttp Request URL: https://www.wix.com/favicon.ico
+[*] OkHttp Request URL: https://www.reyfm.de/icon.png

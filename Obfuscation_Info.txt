@@ -1,0 +1,6 @@
+[+] APKiD 3.0.0 :: from RedNaga :: rednaga.io
+[*] ./net.programmierecke.radiodroid2.apk!classes.dex
+ |-> anti_vm : Build.FINGERPRINT check, Build.MANUFACTURER check
+ |-> compiler : r8
+[*] ./net.programmierecke.radiodroid2.apk!classes2.dex
+ |-> compiler : r8 without marker (suspicious)
